@@ -1,4 +1,4 @@
-"","controller","condition","item","reading_time","NA","subject","group_G","ambiguity_G","filled_effect_G","ambiguity","filled_effect","group"
+"","controller","condition","item","reading_time","NA","subject","group_G","ambiguity_G","filled_gap_effect_G","ambiguity","filled_gap_effect","group"
 "11","DashedSentence","exp2-2","41",5117,"False","Native 1","Native","Unambiguous","Non-Filled-Gap",-0.5,-0.5,-0.5
 "19","DashedSentence","exp2-1","37",5683,"False","Native 1","Native","Ambiguous","Non-Filled-Gap",0.5,-0.5,-0.5
 "27","DashedSentence","exp3-2","44",11162,"False","Native 1","Native","Unambiguous","Filled-Gap",-0.5,0.5,-0.5

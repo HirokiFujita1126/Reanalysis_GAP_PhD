@@ -1,4 +1,4 @@
-"","controller","condition","item","response","response_time","subject","group_G","reading_time","ambiguity_G","filled_effect_G"
+"","controller","condition","item","response","response_time","subject","group_G","reading_time","ambiguity_G","filled_gap_effect_G"
 "12","PictureAccept","exp2-2","41",1,"1476","Native 1","Native",1476,"Unambiguous","Non-Filled-Gap"
 "20","PictureAccept","exp2-1","37",0,"2984","Native 1","Native",2984,"Ambiguous","Non-Filled-Gap"
 "28","PictureAccept","exp3-2","44",0,"2401","Native 1","Native",2401,"Unambiguous","Filled-Gap"
