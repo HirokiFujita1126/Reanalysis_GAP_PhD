@@ -1,4 +1,4 @@
-"subject","item","region","measure","condition","rawdata","group_G","sort","skips","nozero","ambiguity_G","consistency_G","ambiguity_consistency_G","ambiguity","consistency","group"
+"subject","item","region","measure","condition","rawdata","group_G","sort","skips","reading_time","ambiguity_G","consistency_G","ambiguity_consistency_G","ambiguity","consistency","group"
 "Native 1",38,"disambiguation","fp",6,328,"Native","disambiguation fp",0,328,"Unambiguous","Consistent","Unambiguous/Consistent",-0.5,-0.5,-0.5
 "Native 1",39,"disambiguation","fp",7,0,"Native","disambiguation fp",1,NA,"Ambiguous","Inconsistent","Ambiguous/Inconsistent",0.5,0.5,-0.5
 "Native 1",26,"disambiguation","fp",6,336,"Native","disambiguation fp",0,336,"Unambiguous","Consistent","Unambiguous/Consistent",-0.5,-0.5,-0.5
